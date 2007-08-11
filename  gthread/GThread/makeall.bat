@@ -1,0 +1,1 @@
+@javac -d . source\*.java source\examples\*.java source\demos\*.java
