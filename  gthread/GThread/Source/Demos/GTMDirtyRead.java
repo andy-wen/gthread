@@ -7,7 +7,11 @@ package Demos;
 // because the first thread has only set them partially.
 //
 import telhai.java.gthreads.*;
-
+/**
+ * 
+ * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
+ *
+ */
 public class GTMDirtyRead extends Object {
 	private String fname;
 	private String lname;

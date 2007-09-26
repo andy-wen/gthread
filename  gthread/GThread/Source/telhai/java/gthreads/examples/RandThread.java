@@ -10,6 +10,7 @@ import java.util.*;
   * numbers will be produced depends on the key passed during construction. The run method will run loop infinitely
   * (until the thread is killed), causing to change approximately each 100ms.
   * @see telhai.java.gthreads.ThreadPlus
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class RandThread extends ThreadPlus
 {

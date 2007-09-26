@@ -6,6 +6,8 @@ import java.io.*;
   * First and foremost, there is a method to check whether a thread is currently awake or sleeping. Also, each ThreadPlus
   * object comes with a designated pipe for output (PipedOutputStream). It is done so that all the output which a thread
   * produces can be channeled into one stream, which can be monitored by anyone who desires it.
+  * 
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class ThreadPlus extends Thread
 {

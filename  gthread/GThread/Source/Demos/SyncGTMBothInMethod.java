@@ -8,7 +8,11 @@ package Demos;
 //
 
 import telhai.java.gthreads.*;
-
+/**
+ * 
+ * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
+ *
+ */
 public class SyncGTMBothInMethod extends Object {
 	private String objID;
 

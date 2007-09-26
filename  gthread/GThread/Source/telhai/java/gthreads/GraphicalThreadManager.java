@@ -36,6 +36,8 @@ import java.io.*;				// For I/O functions
   * @see GraphicalThreadManager.ThreadLine
   * @see ObjectViewTable
   * @see ThreadPlus
+  * 
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class GraphicalThreadManager extends JFrame implements ActionListener
 {

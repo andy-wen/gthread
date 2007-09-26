@@ -18,6 +18,8 @@ import java.lang.reflect.*;		// For reflection
   * By default, an ObjectViewTable only monitors the declared fields of the object, not the fields which it has inherited
   * from its ancestors. However, it is possible to specify upon construction that the component should also monitor
   * inherited fields.
+  * 
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class ObjectViewTable extends JPanel
 {
