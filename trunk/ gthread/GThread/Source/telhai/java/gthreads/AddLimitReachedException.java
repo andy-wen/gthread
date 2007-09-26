@@ -5,6 +5,7 @@ package telhai.java.gthreads;
   * @see GraphicalThreadManager  
   * @see GraphicalThreadManager#addThread
   * @see GraphicalThreadManager#addObject
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class AddLimitReachedException extends RuntimeException
 {

@@ -11,6 +11,7 @@ import telhai.java.gthreads.*;
   * The counting loop can run a given number of times or run "forever", in which case the thread can be stopped by
   * invoking its kill() method.
   * @see telhai.java.gthreads.ThreadPlus
+  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
   */
 public class NullThread extends ThreadPlus
 {

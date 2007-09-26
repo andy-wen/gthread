@@ -9,7 +9,11 @@ package Demos;
 //
 
 import telhai.java.gthreads.*;
-
+/**
+ * 
+ * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
+ *
+ */
 public class SyncGTMDirtyRead extends Object {
 	private String fname;
 	private String lname;

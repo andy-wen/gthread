@@ -29,7 +29,11 @@ import telhai.java.gthreads.examples.*;		// The NullThread and RandThread exampl
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+/**
+ * 
+ * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
+ *
+ */
 public class GTMDemo extends JFrame implements ActionListener
 {
 	private GraphicalThreadManager GTM;		// An instance of the Graphical Thread Manager
