@@ -11,7 +11,4 @@ The idea behind the project is to supply a set of classes for tracking the java 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Supplied Examples = 
