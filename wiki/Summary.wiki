@@ -12,3 +12,5 @@ The idea behind the project is to supply a set of classes for tracking the java 
 = Details =
 
 = Supplied Examples = 
+
+= Interactive GUI =
