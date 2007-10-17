@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+The idea behind the project is to supply a set of classes for tracking the java threads graphically. Three main stages are tracked: 
+ # The life time of the thread (when he sleep, activated, running, and dead).
+ # Tracking the objects that the thread interact with and their values
+ # Tracking thread output
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
