@@ -9,7 +9,7 @@ package Demos;
 
 import telhai.java.gthreads.*;
 /**
- * 
+ *
  * @author Alex Frid alex.frid@gmail.com; Dima Ruinski
  */
 public class GTMBothInMethod extends Object {
@@ -40,7 +40,7 @@ public class GTMBothInMethod extends Object {
 		System.out.println(threadName + ": " + msg);
 		((ThreadPlus)(ThreadPlus.currentThread())).println(threadName + ": " + msg);
 	}
- 
+
 public static void main(String[] args) {
 		final GTMBothInMethod bim = new GTMBothInMethod("obj1");
 
@@ -69,7 +69,7 @@ public static void main(String[] args) {
 		manager.addThread(threadA);
 		manager.addThread(threadB);
 		manager.start();
-		
+
 		threadA.start();
 
 		try { Thread.sleep(2000); } catch ( InterruptedException x ) { }
